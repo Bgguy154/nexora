@@ -26,7 +26,7 @@ It consists of:
 │   └── ...
 ├── .gitignore
 ├── README.md
-└── package.json       (if applicable)
+└── package.json       
 ```
 
 * `frontend/` — React (or plain JS) UI code, styling (CSS), and assets.
@@ -137,12 +137,7 @@ Contributions are welcome!
 5. Open a Pull Request.
 6. Ensure your code follows existing style, passes tests, and includes documentation where applicable.
 
-## 📖 License
 
-Specify your license here (e.g., MIT License).
-
-```
-MIT © [Your Name / Organization]
 ```
 
 ## 📝 Acknowledgements
